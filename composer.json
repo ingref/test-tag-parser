@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ingref\\parser": "src/"
+            "ingref\\parser\\": "src/"
         }
     },
     "minimum-stability": "stable"
