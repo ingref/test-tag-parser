@@ -12,5 +12,10 @@
             "email": "stanislav_441@mail.ru"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "ingref\\parser": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
